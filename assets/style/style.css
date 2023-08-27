@@ -1,0 +1,41 @@
+
+
+/*Reglas
+-SELECTOR(P)
+-PROPIEDAD(color,fuente, etc)
+-Valor(blue, XXlarge, times new roman, etc)
+
+Para poder seleccionar elementos html, tenemos tres formas de hacerlo
+
+    -etiqueta (el estilo se aplica a TODAS las etiquetas coincidentes)
+    -clase(elementos que formn parte de un grupo en comun)
+    -id (elemento unico)
+
+La palabra reservada class para las clases(.)
+La palabra reservada id para los id(#)
+
+*/
+
+
+p{
+    background-color: cornflowerblue;
+
+}
+
+#Marco{
+    color: olive;
+}
+
+.CH31 {
+    color: crimson;
+    border: 4px outset rgb(17, 141, 179);
+}
+
+#Uriel{
+    color: darkorange;
+}
+
+
+.CH30{
+    color: darkred;
+}
